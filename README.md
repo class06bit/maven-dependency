@@ -1,13 +1,13 @@
 # maven-dependency
 
 ## pom.xml
-1. mkdir 프로젝트
-2. cd 프로젝트
+1. cmd
+2. cd 워크스페이스
 3. mvn archetype:generate
 4. java : 1195, web : 1200
 5. archetype version : 
-6. groupid : 
-7. artifactld :
+6. groupid : (package)
+7. artifactld : (프로젝트명)
 8. version : 1.0-snapshot
 9. package : 
 
